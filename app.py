@@ -1,4 +1,8 @@
+
 # The next 19 lines shows you how to use the "\" character to continue a line of code for readability 
+
+# Zen/Python
+
 print("Beautiful is better than ugly.\
 Explicit is better than implicit.\
 Simple is better than complex.\
