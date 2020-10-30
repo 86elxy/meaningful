@@ -23,4 +23,4 @@ for i in range(3):
 
 print("How are you going to save the world today?")
 for i in range(5):
-  print("Ho", end='')
+  print("Ho")
