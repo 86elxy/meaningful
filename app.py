@@ -1,4 +1,3 @@
-print("Good morning!")
 print("Beautiful is better than ugly.\
 Explicit is better than implicit.\
 Simple is better than complex.\
@@ -22,3 +21,6 @@ Namespaces are one honking great idea -- let's do more of those!")
 for i in range(3):
   print("Good morning!")
 
+print("How are you going to save the world today?")
+for i in range(5):
+  print("Ho", end='')
